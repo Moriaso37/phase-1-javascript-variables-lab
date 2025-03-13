@@ -1,2 +1,3 @@
-// Code your solution in this file!
-const a =1
+const companyName = "Scuber"
+let mostProfitableNeighborhood = "Chelsea"
+let companyCeo = "Susan Smith"
